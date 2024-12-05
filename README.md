@@ -1,4 +1,6 @@
 ## A weather - forecasting app
 Show weather details like:
-- temp in celsius.
+
+
+- temp in celsius
 -location
